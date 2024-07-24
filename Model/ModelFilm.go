@@ -1,8 +1,8 @@
 package Model
 
 import (
-	"Project-Film/Database"
-	"Project-Film/Node"
+	"Rating-Film/Database"
+	"Rating-Film/Node"
 	"fmt"
 )
 

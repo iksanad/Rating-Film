@@ -1,3 +1,3 @@
-module Project-Film
+module Rating-Film
 
 go 1.22.1

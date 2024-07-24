@@ -1,7 +1,7 @@
 package Database
 
 import (
-	"Project-Film/Node"
+	"Rating-Film/Node"
 )
 
 var DBfilm Node.TableFilm

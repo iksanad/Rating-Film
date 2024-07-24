@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Project-Film/Model"
+	"Rating-Film/Model"
 	"fmt"
 )
 
